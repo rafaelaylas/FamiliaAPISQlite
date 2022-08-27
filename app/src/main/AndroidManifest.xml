@@ -16,6 +16,9 @@
         android:theme="@style/Theme.FamiliaAPISQlite"
         tools:targetApi="31">
         <activity
+            android:name=".ListarHermanos"
+            android:exported="false" />
+        <activity
             android:name=".Login2"
             android:exported="false" />
         <activity
